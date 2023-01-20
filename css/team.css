@@ -19,7 +19,7 @@ body{
   .team h1 {
         color: var(--color-black);
         text-align: center;
-        font-family: "Audiowide", 'Poppins';
+        font-family: "Poppins";
     }
   
   .team_container {
