@@ -71,4 +71,10 @@ body{
         text-align: justify;
     }
     
-  
+  /*=========contact us =====*/
+#contact {
+  background: linear-gradient( 90deg, #0e3959 0%, #0e3959 61% , #03a9f5 61%, #03a9f5 100%);
+
+  filter:brightness(70%) ;
+  font-family: 'Poppins', sans-serif;
+}
